@@ -101,7 +101,7 @@ export const HeaderBar: React.FC<HeaderBarProps> = ({ currentView, onViewChange,
             PyPI Package
           </a>
           <a
-            href="https://github.com/alejandrotg-code/verificaEs"
+            href="https://github.com/aletgdev/verificaEs"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-1.5 text-[11px] font-mono px-2.5 py-1 rounded bg-zinc-900 hover:bg-zinc-800 text-zinc-300 border border-zinc-800 transition-colors"

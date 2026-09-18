@@ -32,7 +32,7 @@ export const AppFooter: React.FC = () => {
             Portfolio
           </a>
           <a
-            href="https://github.com/alejandrotg-code/verificaEs"
+            href="https://github.com/aletgdev/verificaEs"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-zinc-200 transition-colors flex items-center gap-1"

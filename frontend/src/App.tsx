@@ -47,12 +47,12 @@ export const App: React.FC = () => {
           <div className="hidden sm:flex items-center gap-2 text-zinc-400">
             <span>Repositorio Público:</span>
             <a
-              href="https://github.com/alejandrotg-code/verificaEs"
+              href="https://github.com/aletgdev/verificaEs"
               target="_blank"
               rel="noopener noreferrer"
               className="text-zinc-300 hover:text-white underline underline-offset-2"
             >
-              alejandrotg-code/verificaEs
+              aletgdev/verificaEs
             </a>
           </div>
         </div>

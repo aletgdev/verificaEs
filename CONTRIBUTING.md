@@ -8,7 +8,7 @@ Thank you for your interest in contributing! Here's how to get started.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/alejandrotg-code/verificaEs
+git clone https://github.com/aletgdev/verificaEs
 cd verificaEs
 ```
 

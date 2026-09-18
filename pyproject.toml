@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "verifica-es"
-version = "1.1.1"
+version = "1.1.2"
 description = "Librería ultraligera (cero dependencias) y API para validar documentos oficiales y formatos españoles (DNI, NIE, CIF, IBAN, Teléfonos, Códigos Postales y Matrículas)."
 readme = "README.md"
 requires-python = ">=3.9"
@@ -57,9 +57,9 @@ dev = [
 verifica-es = "verifica_es.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/alejandrotg-code/verificaEs"
-Repository = "https://github.com/alejandrotg-code/verificaEs"
-Issues = "https://github.com/alejandrotg-code/verificaEs/issues"
+Homepage = "https://github.com/aletgdev/verificaEs"
+Repository = "https://github.com/aletgdev/verificaEs"
+Issues = "https://github.com/aletgdev/verificaEs/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]

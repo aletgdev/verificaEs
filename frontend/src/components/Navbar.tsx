@@ -49,7 +49,7 @@ export const Navbar: React.FC = () => {
           </a>
 
           <a
-            href="https://github.com/alejandrotg-code/verificaEs"
+            href="https://github.com/aletgdev/verificaEs"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-xs font-semibold px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-white border border-slate-700 transition-all shadow-sm"

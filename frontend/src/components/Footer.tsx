@@ -50,7 +50,7 @@ export const Footer: React.FC = () => {
             </a>
 
             <a
-              href="https://github.com/alejandrotg-code/verificaEs"
+              href="https://github.com/aletgdev/verificaEs"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white transition-colors flex items-center gap-1 text-xs"

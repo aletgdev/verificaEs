@@ -1,10 +1,10 @@
 # verifica-es 🇪🇸
 
-[![PyPI version](https://img.shields.io/badge/pypi-v1.1.1-blue.svg)](https://pypi.org/project/verifica-es/)
+[![PyPI version](https://img.shields.io/badge/pypi-v1.1.2-blue.svg)](https://pypi.org/project/verifica-es/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Versions](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue)](https://www.python.org/)
-[![Zero Dependencies](https://img.shields.io/badge/dependencies-0%20(standard%20library)-success)](https://github.com/alejandrotg-code/verificaEs)
-[![Tests](https://img.shields.io/badge/tests-36%20passed-brightgreen)](https://github.com/alejandrotg-code/verificaEs)
+[![Zero Dependencies](https://img.shields.io/badge/dependencies-0%20(standard%20library)-success)](https://github.com/aletgdev/verificaEs)
+[![Tests](https://img.shields.io/badge/tests-36%20passed-brightgreen)](https://github.com/aletgdev/verificaEs)
 
 Librería ultraligera (**cero dependencias externas** en su núcleo), herramienta de línea de comandos (**CLI**) y **API REST** de alta velocidad para la validación y verificación de documentos y formatos oficiales de España.
 
